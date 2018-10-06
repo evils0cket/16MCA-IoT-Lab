@@ -24,6 +24,7 @@ sudo pip3 install Adafruit-SSD1306
 ```
 
 Or alternatively:
+
 ```
 Python2
 ```

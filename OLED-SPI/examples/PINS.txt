@@ -1,3 +1,5 @@
+Device - SSD1306 OLED SPI 128x64
+
 VDD - 1(3.3V)
 SCK - 23 (GPIO11)
 SDA - 19 (GPIO 10)

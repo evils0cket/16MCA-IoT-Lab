@@ -24,6 +24,7 @@ sudo pip3 install Adafruit-SSD1306
 ```
 
 Or alternatively:
+```
 Python2
 ```
 sudo python -m pip install --upgrade pip setuptools wheel
